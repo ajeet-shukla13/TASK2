@@ -1,4 +1,4 @@
-# Task 2 – Gmail Email Reader (Java + Spring Boot)
+# Task 2 – Gmail Email Reader (Spring Boot)
 
 Google drive link: https://drive.google.com/file/d/16ZIHToeiBdX0118GlFzc3fAqkGh_DvsC/view?usp=sharing
 Use this link to access JAR file
